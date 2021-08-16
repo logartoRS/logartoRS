@@ -1,13 +1,14 @@
-# Hello, my name is Brayan Retamozo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello, my name is Brayan Retamozo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 I'm a mechatronic engineering student.
 
 In 2016 I started studying mechatronics engineering, one of the courses that I liked the most is Object Oriented Programming (OOP) using C ++. After that, I studied, studied on my own many developing languages like C #, C ++, JavaScript, Python and others.
 
 These repositories were created to share my knowledge and improve what I share.
+
 <!--
 ## Skills:
-[![C#]]()
+[![C#](C#)]()
 </br>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 </br>
@@ -68,64 +69,6 @@ If you want to join our community, learn App coding, and help the continuity of 
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
-
-## Some YouTube videos:
-
-<table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-</table>
-</table>
-
 
 ## Contact me:
 
